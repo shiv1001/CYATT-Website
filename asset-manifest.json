@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CYATT-Website/static/css/main.9615f60b.css",
+    "main.js": "/CYATT-Website/static/js/main.87996fa2.js",
+    "static/js/787.04990740.chunk.js": "/CYATT-Website/static/js/787.04990740.chunk.js",
+    "static/media/about.png": "/CYATT-Website/static/media/about.1493046f0293d4abea75.png",
+    "static/media/app.png": "/CYATT-Website/static/media/app.95606702e8e1492273b4.png",
+    "static/media/seo.png": "/CYATT-Website/static/media/seo.1a3d337003f2611359a2.png",
+    "static/media/web.png": "/CYATT-Website/static/media/web.a28f8732174fd1bd3c09.png",
+    "static/media/ui.png": "/CYATT-Website/static/media/ui.c87f6d3219f10dec3273.png",
+    "static/media/home.png": "/CYATT-Website/static/media/home.5f83daaf05a538aac2be.png",
+    "static/media/Image1.jpg": "/CYATT-Website/static/media/Image1.c0926e270bd31462b37c.jpg",
+    "index.html": "/CYATT-Website/index.html",
+    "main.9615f60b.css.map": "/CYATT-Website/static/css/main.9615f60b.css.map",
+    "main.87996fa2.js.map": "/CYATT-Website/static/js/main.87996fa2.js.map",
+    "787.04990740.chunk.js.map": "/CYATT-Website/static/js/787.04990740.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9615f60b.css",
+    "static/js/main.87996fa2.js"
+  ]
+}
